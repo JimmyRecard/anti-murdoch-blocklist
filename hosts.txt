@@ -1,0 +1,73 @@
+# ===============================================================
+# Anti-Murdoch Hosts Blocklist v1.0
+#
+# Following is list of domains owned  by Rupert Murdoch's News Corp.
+# Based on https://en.wikipedia.org/wiki/List_of_assets_owned_by_News_Corp
+# It should be compatible with any hosts based adblocker.
+#
+# Please submit an issue/pull request to have any missing sites added.
+#
+# Last update: 05/11/2018
+# ===============================================================
+
+
+# UK newspaper
+0.0.0.0 thesun.co.uk
+0.0.0.0 thetimes.co.uk
+0.0.0.0 thesundaytimes.co.uk
+0.0.0.0 pressassociation.com # News UK is one of 26 shareholders
+
+# Australia
+0.0.0.0 newscorpaustralia.com
+0.0.0.0 theaustralian.com.au
+0.0.0.0 aap.com.au # 45% ownership
+0.0.0.0 news.com.au
+0.0.0.0 whereilive.com.au
+
+# Australia / NSW
+0.0.0.0 dailytelegraph.com.au
+
+# Australia / Victoria
+0.0.0.0 heraldsun.com.au
+0.0.0.0 geelongadvertiser.com.au
+
+# Australia / Queensland
+0.0.0.0 couriermail.com.au
+0.0.0.0 thesundaymail.com.au
+0.0.0.0 goldcoastbulletin.com.au
+0.0.0.0 cairnspost.com.au
+0.0.0.0 townsvillebulletin.com.au
+
+# Australia / South Australia
+0.0.0.0 adelaidenow.com.au
+
+# Australia / Western Australia
+0.0.0.0 perthnow.com.au
+0.0.0.0 communitynews.com.au #51% owned by News Corp
+
+# Australia / Tasmania
+0.0.0.0 themercury.com.au
+
+# Australia / Northern Territory
+0.0.0.0 ntnews.com.au
+
+# Papua New Guinea
+0.0.0.0 postcourier.com.pg # 63% ownership
+
+# United States of America
+0.0.0.0 nypost.com
+0.0.0.0 pagesix.com
+0.0.0.0 wsj.com
+0.0.0.0 realtor.com
+
+# International
+0.0.0.0 dowjones.com
+0.0.0.0 barrons.com
+0.0.0.0 marketwatch.com
+0.0.0.0 fnlondon.com
+0.0.0.0 heatst.com
+0.0.0.0 mansionglobal.com
+0.0.0.0 factiva.com
+0.0.0.0 spindices.com # joint venture
+0.0.0.0 talksport.com
+0.0.0.0 harpercollins.com
