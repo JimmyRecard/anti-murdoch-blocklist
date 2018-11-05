@@ -1,0 +1,1 @@
+# anti-murdoch-blocklist
