@@ -1,0 +1,65 @@
+# UK newspaper
+*://*.thesun.co.uk/*
+*://*.thetimes.co.uk/*
+*://*.thesundaytimes.co.uk/*
+# News UK is one of 26 shareholders of pressassociation.com
+*://*.pressassociation.com/* 
+
+# Australia
+*://*.newscorpaustralia.com/*
+*://*.theaustralian.com.au/*
+# 45% ownership of aap.com.au
+*://*.aap.com.au/* #
+*://*.news.com.au/*
+*://*.whereilive.com.au/*
+
+# Australia / NSW
+*://*.dailytelegraph.com.au/*
+
+# Australia / Victoria
+*://*.heraldsun.com.au/*
+*://*.geelongadvertiser.com.au/*
+
+# Australia / Queensland
+*://*.couriermail.com.au/*
+*://*.thesundaymail.com.au/*
+*://*.goldcoastbulletin.com.au/*
+*://*.cairnspost.com.au/*
+*://*.townsvillebulletin.com.au/*
+
+# Australia / South Australia
+*://*.adelaidenow.com.au/*
+
+# Australia / Western Australia
+*://*.perthnow.com.au/*
+# communitynews.com.au is 51% owned by News Corp
+*://*.communitynews.com.au/*
+
+# Australia / Tasmania
+*://*.themercury.com.au
+
+# Australia / Northern Territory
+*://*.ntnews.com.au/*
+
+# Papua New Guinea
+# postcourier.com.pg is 63% owned
+*://*.postcourier.com.pg/* 
+
+# United States of America
+*://*.nypost.com/*
+*://*.pagesix.com/*
+*://*.wsj.com/*
+*://*.realtor.com/*
+
+# International
+*://*.dowjones.com/*
+*://*.barrons.com/*
+*://*.marketwatch.com/*
+*://*.fnlondon.com/*
+*://*.heatst.com/*
+*://*.mansionglobal.com/*
+*://*.factiva.com/*
+# spindices.com is a joint venture
+*://*.spindices.com/*
+*://*.talksport.com/*
+*://*.harpercollins.com/*
