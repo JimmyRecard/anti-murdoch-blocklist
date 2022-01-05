@@ -7,7 +7,7 @@
 #
 # Please submit an issue/pull request to have any missing sites added.
 #
-# Last update: 05/11/2018
+# Last update: 05/01/2022
 # ===============================================================
 
 
@@ -22,6 +22,7 @@
 0.0.0.0 theaustralian.com.au
 0.0.0.0 aap.com.au # 45% ownership
 0.0.0.0 news.com.au
+0.0.0.0 www.news.com.au
 0.0.0.0 whereilive.com.au
 
 # Australia / NSW
