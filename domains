@@ -1,0 +1,84 @@
+# ===============================================================
+# Anti-Murdoch Hosts Blocklist v1.0
+#
+# Following is list of domains owned  by Rupert Murdoch's News Corp.
+# Based on https://en.wikipedia.org/wiki/List_of_assets_owned_by_News_Corp
+# It should be compatible with any domains based adblocker.
+#
+# Please submit an issue/pull request to have any missing sites added.
+#
+# Last update: 10/01/2022
+# ===============================================================
+
+# ===============================================================
+# Anti-Murdoch Hosts Blocklist v1.0
+#
+# Following is list of domains owned  by Rupert Murdoch's News Corp.
+# Based on https://en.wikipedia.org/wiki/List_of_assets_owned_by_News_Corp
+# It should be compatible with any hosts based adblocker.
+#
+# Please submit an issue/pull request to have any missing sites added.
+#
+# Last update: 05/01/2022
+# ===============================================================
+
+# UK newspaper
+thesun.co.uk
+thetimes.co.uk
+thesundaytimes.co.uk
+pressassociation.com # News UK is one of 26 shareholders
+
+# Australia
+newscorpaustralia.com
+theaustralian.com.au
+aap.com.au #45% ownership
+news.com.au
+whereilive.com.au
+
+# Australia / NSW
+dailytelegraph.com.au
+
+# Australia / Victoria
+heraldsun.com.au
+geelongadvertiser.com.au
+
+# Australia / Queensland
+couriermail.com.au
+thesundaymail.com.au
+goldcoastbulletin.com.au
+cairnspost.com.au
+townsvillebulletin.com.au
+
+# Australia / South Australia
+adelaidenow.com.au
+
+# Australia / Western Australia
+perthnow.com.au
+communitynews.com.au #51% owned by News Corp
+
+# Australia / Tasmania
+themercury.com.au
+
+# Australia / Northern Territory
+ntnews.com.au
+
+# Papua New Guinea
+postcourier.com.pg # 63% ownership
+
+# United States of America
+nypost.com
+pagesix.com
+wsj.com
+realtor.com
+
+# International
+dowjones.com
+barrons.com
+marketwatch.com
+fnlondon.com
+heatst.com
+mansionglobal.com
+factiva.com
+spindices.com # joint venture
+talksport.com
+harpercollins.com
