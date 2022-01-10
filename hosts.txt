@@ -22,7 +22,6 @@
 0.0.0.0 theaustralian.com.au
 0.0.0.0 aap.com.au # 45% ownership
 0.0.0.0 news.com.au
-0.0.0.0 www.news.com.au
 0.0.0.0 whereilive.com.au
 
 # Australia / NSW
@@ -72,3 +71,66 @@
 0.0.0.0 spindices.com # joint venture
 0.0.0.0 talksport.com
 0.0.0.0 harpercollins.com
+
+# www subdomains
+
+# UK newspaper
+0.0.0.0 www.thesun.co.uk
+0.0.0.0 www.thetimes.co.uk
+0.0.0.0 www.thesundaytimes.co.uk
+0.0.0.0 www.pressassociation.com # News UK is one of 26 shareholders
+
+# Australia
+0.0.0.0 www.newscorpaustralia.com
+0.0.0.0 www.theaustralian.com.au
+0.0.0.0 www.aap.com.au # 45% ownership
+0.0.0.0 www.news.com.au
+0.0.0.0 www.whereilive.com.au
+
+# Australia / NSW
+0.0.0.0 www.dailytelegraph.com.au
+
+# Australia / Victoria
+0.0.0.0 www.heraldsun.com.au
+0.0.0.0 www.geelongadvertiser.com.au
+
+# Australia / Queensland
+0.0.0.0 www.couriermail.com.au
+0.0.0.0 www.thesundaymail.com.au
+0.0.0.0 www.goldcoastbulletin.com.au
+0.0.0.0 www.cairnspost.com.au
+0.0.0.0 www.townsvillebulletin.com.au
+
+# Australia / South Australia
+0.0.0.0 www.adelaidenow.com.au
+
+# Australia / Western Australia
+0.0.0.0 www.perthnow.com.au
+0.0.0.0 www.communitynews.com.au #51% owned by News Corp
+
+# Australia / Tasmania
+0.0.0.0 www.themercury.com.au
+
+# Australia / Northern Territory
+0.0.0.0 www.ntnews.com.au
+
+# Papua New Guinea
+0.0.0.0 www.postcourier.com.pg # 63% ownership
+
+# United States of America
+0.0.0.0 www.nypost.com
+0.0.0.0 www.pagesix.com
+0.0.0.0 www.wsj.com
+0.0.0.0 www.realtor.com
+
+# International
+0.0.0.0 www.dowjones.com
+0.0.0.0 www.barrons.com
+0.0.0.0 www.marketwatch.com
+0.0.0.0 www.fnlondon.com
+0.0.0.0 www.heatst.com
+0.0.0.0 www.mansionglobal.com
+0.0.0.0 www.factiva.com
+0.0.0.0 www.spindices.com # joint venture
+0.0.0.0 www.talksport.com
+0.0.0.0 www.harpercollins.com
